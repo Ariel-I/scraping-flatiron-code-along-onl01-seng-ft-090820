@@ -11,10 +11,10 @@ class Scraper
     binding.pry 
     
      # doc.css(".card").each do |post|
-     # plant = Course.new
-     # course.title = post.css("h2").text
-     # course.schedule = post.css(".date").text
-    # course.description = post.css("p").text
+     # plant = Plants.new
+     # plants.title = post.css("h2").text
+     # plants.schedule = post.css(".date").text
+    # plants.description = post.css("p").text
    # end
     
   end 
