@@ -13,8 +13,8 @@ class Scraper
      # doc.css(".card").each do |post|
      # plant = Plants.new
      # plants.genus = card.css("h3").text
-     # plants.price = card.css(".date").text
-    # plants.description = post.css("p").text
+     # plants.price = card.css("div").text
+    # plants.description = card.css("p").text
    # end
     
   end 
