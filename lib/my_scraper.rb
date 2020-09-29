@@ -14,6 +14,7 @@ class Scraper
      # plant = Plants.new
      # plants.genus = card.css("h3").text
      # plants.price = card.css("div").text
+     
     # plants.description = card.css("p").text
    # end
     
